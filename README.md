@@ -1,4 +1,4 @@
-# Smart-Notepad-with-AI
+# Smart-Notepad-with-AI (Project Under Coding)
 #### Features--
 
 1. This Smart Notepad provides feature of # Speech-Recognition with Artificial Intelligence to do the task just by your Voice Command.
