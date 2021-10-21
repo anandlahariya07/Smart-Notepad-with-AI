@@ -7,5 +7,9 @@
 3. Personal data files in smart Notepad can also be protected by personal credentials for Enhance Security purpose.
 4. It provides neat and user-friendly UI. 
 
+#### Running Process --
+
+1. Run NotepadView file and experience new Notepad.
+
 
 Contact - anandlahariya786@gmail.com
